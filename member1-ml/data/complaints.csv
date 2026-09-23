@@ -1,0 +1,19 @@
+complaint,category
+"There is a large pothole near the college gate",Roads
+"The road has many potholes",Roads
+"Streetlights are not working in our area",Streetlights
+"The street light has been broken for three days",Streetlights
+"Garbage has not been collected for several days",Garbage
+"Waste is piling up near our houses",Garbage
+"There is no water supply since yesterday",Water Supply
+"We are not receiving water in our area",Water Supply
+"The drainage is blocked",Drainage
+"Dirty water is overflowing from the drain",Drainage
+"There is no electricity in our street",Electricity
+"Power supply has been interrupted",Electricity
+"There is a pothole near the bus stop",Roads
+"Several street lights are not working",Streetlights
+"Garbage is scattered on the road",Garbage
+"Water supply has stopped in our locality",Water Supply
+"The drain is overflowing",Drainage
+"There is a power cut in our area",Electricity
