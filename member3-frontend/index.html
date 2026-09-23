@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CivicSense - Report an Issue</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>CivicSense</h1>
+
+        <p class="subtitle">Report a Civic Issue</p>
+
+        <form id="complaintForm">
+
+            <label for="title">Issue Title</label>
+            <input
+                type="text"
+                id="title"
+                placeholder="Enter issue title"
+                required
+            >
+
+            <label for="description">Description</label>
+            <textarea
+                id="description"
+                rows="5"
+                placeholder="Describe the civic issue"
+                required
+            ></textarea>
+
+            <label for="location">Location</label>
+            <input
+                type="text"
+                id="location"
+                placeholder="Enter issue location"
+                required
+            >
+
+            <label for="category">Category</label>
+            <select id="category" required>
+                <option value="">Select category</option>
+                <option value="Garbage">Garbage</option>
+                <option value="Pothole">Pothole</option>
+                <option value="Streetlight">Streetlight</option>
+                <option value="Drainage">Drainage</option>
+            </select>
+
+            <label for="image">Evidence Upload</label>
+            <input
+                type="file"
+                id="image"
+                accept="image/*"
+            >
+
+            <button type="submit">
+                Submit Complaint
+            </button>
+
+            <p id="message"></p>
+
+        </form>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
