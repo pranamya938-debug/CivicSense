@@ -1,0 +1,957 @@
+zone_name,ward_name,complaint_count
+rrnagar,jnanabharathi ward,27963
+mahadevapura,horamavu,27156
+rrnagar,rajarajeshwari nagar,24764
+bommanahalli,begur,24670
+mahadevapura,bellandur,21965
+rrnagar,hemmigepura,21481
+yelahanka,thanisandra,21182
+yelahanka,jakkur,20647
+mahadevapura,hoodi,18397
+bommanahalli,uttarahalli,17802
+rrnagar,ullalu,16611
+mahadevapura,ramamurthy nagar,16250
+yelahanka,someshwara,16175
+mahadevapura,doddanekkundi,15934
+yelahanka,vidyaranyapura,15808
+bommanahalli,hsr layout,14990
+east,banaswadi,14806
+mahadevapura,varthur,14795
+rrnagar,dodda bidarkallu,14671
+bommanahalli,gottigere,14615
+bommanahalli,vasanthapura,13986
+bommanahalli,singasandra,13913
+rrnagar,kottigepalya,13723
+east,hbr layout,12688
+rrnagar,herohalli,12429
+yelahanka,byatarayanapura,11968
+mahadevapura,basavanapura,11416
+dasarahalli,shettyhalli,11164
+east,kavalbyrasandra,11055
+mahadevapura,hagadooru,10903
+mahadevapura,vignana nagar,10713
+bommanahalli,arakere,10533
+bommanahalli,konanakunte,10013
+south,btm layout,9784
+east,benniganahalli,9711
+yelahanka,kodigehalli,9195
+south,kumaraswamy layout,9028
+mahadevapura,k.r.puram,8706
+east,vishwanathnagenahalli,8494
+west,chikpete,8374
+dasarahalli,bagalagunte,8369
+south,j.p.nagar,8346
+bommanahalli,bilekahalli,8304
+bommanahalli,anjanapur,8304
+south,giri nagar,8263
+bommanahalli,yelachenahalli,8228
+rrnagar,kengeri,8175
+south,padmanabha nagar,8048
+east,hoysala nagar,7879
+south,jayangar,7632
+yelahanka,kuvempu nagar,7628
+mahadevapura,kadugodi,7607
+east,shanthala nagar,7482
+south,pattabhiram nagar,7462
+east,newthippasandra,7098
+south,attiguppe,6607
+south,koramangala,6541
+east,jeevanbhima nagar,6388
+east,maruthi seva nagar,6369
+yelahanka,yelahanka old satellite town,6321
+bommanahalli,mangammanapalya,6308
+east,manorayanapalya,6118
+south,sarakki,6026
+west,malleshwaram,5981
+east,sampangiram nagar,5940
+south,visvesvarapuram,5924
+south,sunkenahalli,5888
+yelahanka,kempegowda ward,5849
+south,basavanagudi,5808
+east,sanjay nagar,5733
+south,vidyapeetha,5695
+bommanahalli,bommanahalli,5640
+bommanahalli,puttenahalli,5602
+south,shakambari nagar,5491
+east,c.v.raman nagar,5446
+west,gandhi nagar,5378
+east,radhakrishna temple,5268
+south,dharmarayaswamy temple ward,5197
+south,hombegowda nagar,5140
+west,aramane nagar,5099
+mahadevapura,garudacharpalya,5038
+west,nagapura,4873
+south,hampi nagar,4831
+east,kacharakanahalli,4817
+south,ganeshmandira ward,4793
+south,katriguppe,4732
+rrnagar,laggere,4703
+east,hebbal,4655
+east,konena agrahara,4640
+east,nagavara,4585
+dasarahalli,chokkasandra,4553
+mahadevapura,marathalli,4515
+south,byrasandra,4418
+mahadevapura,vijanapura,4370
+east,pulikeshi nagar,4331
+bommanahalli,hongasandra,4331
+south,madiwala,4321
+west,gayathri nagar,4243
+west,rajamahal,4166
+west,subedarapalya,4163
+mahadevapura,a.narayanapura,4162
+west,sri rammandira,4112
+dasarahalli,peenya industrial area,4025
+south,ejipura,4013
+south,jayanagar east,3943
+south,hosakerehalli,3941
+west,nandini layout,3907
+west,chamrajpet,3874
+south,chikkalasandra,3816
+east,shanthi nagar,3788
+south,sri nagar,3736
+east,domlur,3706
+east,jogupalya,3693
+west,mathikere,3649
+south,vijay nagar,3629
+dasarahalli,hegganahalli,3584
+east,jayachamarajendra nagar,3516
+west,nagarabhavi,3492
+west,shankaramata,3450
+east,kammanahalli,3400
+east,vannarpet,3358
+west,subramanya nagar,3340
+south,gurappanapalya,3339
+west,rajaji nagar,3321
+mahadevapura,hal airport,3290
+west,maruthi mandira ward,3232
+south,banashankari temple ward,3223
+rrnagar,j.p.park,3219
+west,mahalakshmipuram,3187
+rrnagar,h.m.t,3174
+dasarahalli,rajagopala nagar,3166
+west,dayananda nagar,3138
+east,vasanth nagar,3136
+south,hosahalli,3124
+yelahanka,doddabommasandra,3095
+west,okalipuram,3051
+east,kadugondanahalli,3029
+west,govindraja nagara,3010
+west,shakthiganapathi nagar,2999
+south,hanumantha nagar,2981
+south,sudduguntepalya,2972
+west,dattathreya temple,2902
+west,cottonpet,2882
+south,sudam nagar,2875
+west,marenahalli,2858
+east,ganga nagar,2852
+east,ulsoor,2847
+west,dr.rajkumar ward,2843
+west,basaveshwara nagar,2839
+east,sarvagna nagar,2804
+east,bharathi nagar,2782
+east,lingarajapuram,2767
+south,deepanjali nagar,2751
+south,bapuji nagar,2751
+east,sagayapuram,2688
+mahadevapura,devasandra,2673
+yelahanka,chowdeshwari ward,2639
+west,shiva nagar,2623
+east,shivaji nagar,2593
+bommanahalli,jaraganahalli,2580
+west,azad nagar,2560
+west,kaveripura,2510
+dasarahalli,t-dasarahalli,2504
+rrnagar,jalahalli,2481
+south,jakkasandra,2461
+east,jayamahal,2444
+south,yadiyuru,2396
+west,moodalapalya,2378
+west,k.r.market,2286
+west,subhash nagar,2284
+west,kamakshipalya,2272
+west,marappana palya,2252
+south,gali anjaneya swamy temple ward,2188
+south,karisandra,2182
+east,ramaswamy palya,2099
+west,nayandanahalli,2095
+west,jagajeevanram nagar,2076
+dasarahalli,mallasandra,2052
+west,agrahara dasarahalli,2032
+east,kushal nagar,2024
+south,siddapura,2007
+rrnagar,yeshwanthpur,1996
+south,adugodi,1852
+east,agaram,1793
+south,lakkasandra,1734
+east,gangenahalli,1731
+west,prakash nagar,1727
+west,binnipet,1695
+west,padarayanapura,1657
+east,s.k.garden,1521
+south,kempapura agrahara,1469
+west,chalavadipalya,1431
+west,vrushabhavati nagar,1374
+east,neelasandra,1244
+west,rayapuram,1241
+bbmp ho,non ward,1205
+rrnagar,lakshmidevi nagar,1134
+east,devarajeevanahalli,1129
+east,muneshwara nagar,1127
+bbmp ho,benniganahalli,124
+k.r. pura,babusab palya,118
+rajarajeshwarinagar,rajarajeshwari nagara,109
+byatarayanapura,jakkur,95
+byatarayanapura,kogilu,93
+rajarajeshwarinagar,mallathahalli,88
+jayanagar,talagattapura,87
+rajarajeshwarinagar,jnana bharathi ward,73
+rajarajeshwarinagar,bangarappa nagara,70
+byatarayanapura,thanisandra,70
+jayanagar,anjanapura,66
+byatarayanapura,byatarayanapura,65
+byatarayanapura,banaswadi,60
+yelahanka,bagalagunte,59
+jayanagar,kothanur,59
+rajarajeshwarinagar,vinayaka layout,55
+byatarayanapura,kempapura,53
+rajarajeshwarinagar,ullal,53
+byatarayanapura,sampigehalli,52
+byatarayanapura,thindlu,50
+rajarajeshwarinagar,kottegepalya,49
+yelahanka,attur,49
+mahadevapura,byrathi,46
+malleshwaram,kathriguppe,46
+bommanahalli,viswamanava kuvempu ward,45
+k.r. pura,horamavu,44
+mahadevapura,munnenkolalu,44
+mahadevapura,panathur,43
+jayanagar,kane muneshwara ward,43
+bommanahalli,agara,41
+c.v. raman nagar,konena agrahara,39
+yelahanka,r.t nagar,39
+gandhinagara,dharmaraya swamy temple ward,39
+jayanagar,vasanthapura,38
+k.r. pura,mahadevapura,38
+jayanagar,subramanyapura,38
+jayanagar,byrasandra,37
+byatarayanapura,vidyaranyapura,37
+byatarayanapura,singapura,37
+bommanahalli,vijaya bank layout,37
+yelahanka,vishwanatha nagenahalli,37
+gandhinagara,chickpete,36
+mahadevapura,gunjur,36
+yelahanka,doddabettahalli,35
+rajarajeshwarinagar,andrahalli,35
+c.v. raman nagar,ashokanagar,34
+yelahanka,aerocity,34
+gandhinagara,sampangirama nagar,33
+byatarayanapura,hennur,33
+mahadevapura,kundalahalli,33
+byatarayanapura,pulakeshi nagar,33
+k.r. pura,basavanapura,33
+jayanagar,tilak nagara,33
+bommanahalli,kasavanahalli,32
+jayanagar,j.p nagar,32
+gandhinagara,sunkenahalli,31
+gandhinagara,jayamahal,31
+rajarajeshwarinagar,kengeri,31
+c.v. raman nagar,kasturi nagar,31
+malleshwaram,attigupe,31
+mahadevapura,belathur,31
+yelahanka,shettihalli,30
+jayanagar,pattabhirama nagara,30
+jayanagar,yelenahalli,30
+malleshwaram,malleshwaram,30
+bommanahalli,kudlu,29
+mahadevapura,whitefield,29
+k.r. pura,kalkere,29
+c.v. raman nagar,indiranagar,29
+byatarayanapura,kodigehalli,29
+byatarayanapura,hbr layout,28
+rajarajeshwarinagar,ganesh mandira ward,28
+malleshwaram,swamy vivekananda ward,28
+byatarayanapura,maruthi seva nagara,28
+mahadevapura,hagaduru,28
+yelahanka,abbigere,28
+jayanagar,vishwapriya nagara,28
+jayanagar,sarakki,27
+malleshwaram,basaveshwara nagara,27
+malleshwaram,hampi nagar,27
+c.v. raman nagar,new thippasandra,26
+rajarajeshwarinagar,peenya,26
+bommanahalli,garvebavi palya,26
+k.r. pura,k narayanapura,26
+byatarayanapura,kalyan nagar,26
+jayanagar,rbi layout,26
+bommanahalli,doresanipalya,25
+jayanagar,naganathapura,25
+gandhinagara,vasanth nagar,25
+gandhinagara,v.v puram,25
+gandhinagara,k.r market,24
+jayanagar,uttarahalli,24
+jayanagar,beguru,24
+k.r. pura,ramamurthy nagara,24
+rajarajeshwarinagar,kengeri kote ward,24
+rajarajeshwarinagar,nagasandra,24
+byatarayanapura,shampura,23
+rajarajeshwarinagar,srigandada kaval,23
+k.r. pura,hoysala nagara east,23
+rajarajeshwarinagar,kengal hanumanthaiah west,23
+bommanahalli,bandepalya,23
+byatarayanapura,rajiv gandhi nagar,23
+byatarayanapura,kaval byrasandra,22
+k.r. pura,bhattarahalli,22
+c.v. raman nagar,kodihalli,22
+malleshwaram,n.r colony,22
+mahadevapura,priyadarshini ward,21
+jayanagar,chikkathoguru,21
+jayanagar,gowdanapalya,21
+gandhinagara,hombegowda nagara,21
+c.v. raman nagar,domluru,21
+rajarajeshwarinagar,byadarahalli,20
+yelahanka,kammagondanahalli,20
+rajarajeshwarinagar,dodda bidarakallu,20
+rajarajeshwarinagar,nagadevanahalli,20
+jayanagar,doddakammanahalli,19
+c.v. raman nagar,shanthinagar,19
+byatarayanapura,hrbr layout,19
+mahadevapura,dodda nekkundi,19
+rajarajeshwarinagar,nada prabhu kempegowda nagara,19
+yelahanka,hmt ward,19
+k.r. pura,k chennasandra,19
+gandhinagara,ramaswamy palya,19
+malleshwaram,sadashiva nagara,19
+rajarajeshwarinagar,herohalli,19
+yelahanka,yelahanka satellite town,19
+bommanahalli,kengal hanumanthaiah south,18
+rajarajeshwarinagar,shivapura,18
+malleshwaram,ashoka nagara,18
+malleshwaram,thimmenahalli,18
+gandhinagara,shivajinagar,18
+bommanahalli,devarachikkanahalli,18
+jayanagar,kadirenahalli,18
+jayanagar,yelachenahalli,18
+mahadevapura,kaveri nagara,18
+jayanagar,konanakunte,18
+c.v. raman nagar,hoysala nagara central,18
+rajarajeshwarinagar,chowdeshwari nagar,17
+bommanahalli,new tavarekere,17
+yelahanka,raja kempegowda ward,17
+malleshwaram,krishnadevaraya ward,17
+malleshwaram,dr rajkumar ward,17
+jayanagar,gottigere,17
+mahadevapura,kasavanahalli,17
+bommanahalli,hemmigepura,17
+jayanagar,chandranagara,17
+yelahanka,hebbal,16
+gandhinagara,ashoka pillar,16
+gandhinagara,bhel ward,16
+rajarajeshwarinagar,chokkasandra,16
+malleshwaram,kodandarampura,16
+gandhinagara,d.v gundappa ward,16
+malleshwaram,maruthi mandira ward,16
+rajarajeshwarinagar,freedom fighter ward,16
+k.r. pura,chellakere,16
+k.r. pura,kotthur,16
+malleshwaram,rajajinagara,15
+rajarajeshwarinagar,parvathi nagar,15
+yelahanka,manorayanapalya,15
+bommanahalli,iblur,15
+bommanahalli,hulimavu,15
+gandhinagara,chamarajpet,15
+k.r. pura,devasandra,15
+malleshwaram,rama mandira,15
+rajarajeshwarinagar,shivanapalya,15
+unspecified,bellandur,15
+byatarayanapura,amruthahalli,15
+mahadevapura,marathahalli,15
+byatarayanapura,sagayapuram,15
+k.r. pura,vignananagara,15
+jayanagar,marenahalli south,14
+bommanahalli,a adugodi,14
+gandhinagara,k kamaraj ward,14
+malleshwaram,gali anjaneya temple ward,14
+bommanahalli,sri lakshmi devi ward,14
+yelahanka,geddalahalli,14
+malleshwaram,srinivasa nagara,14
+byatarayanapura,kacharakanahalli,14
+malleshwaram,nayanda halli,14
+gandhinagara,nehru nagar,14
+byatarayanapura,lingarajpura,14
+unspecified,basavanapura,13
+malleshwaram,nagarbhavi,13
+unspecified,byatarayanapura,13
+jayanagar,padmanabhanagara,13
+malleshwaram,anubhava nagara,13
+jayanagar,sarvabhouma nagar,13
+rajarajeshwarinagar,kethamaranahalli,13
+yelahanka,ganganagar,13
+yelahanka,nyayanga badavane,13
+yelahanka,nagashettyhalli,13
+c.v. raman nagar,cox town,13
+unspecified,begur,12
+rajarajeshwarinagar,hegganahalli,12
+malleshwaram,thyagarajnagar,12
+jayanagar,n.a.l layout,12
+mahadevapura,benniganahalli,12
+mahadevapura,bharath aikya ward,12
+byatarayanapura,varalakshmi nagar,12
+bommanahalli,kormangala east,12
+bommanahalli,ejipura,12
+unspecified,jnanabharathi ward,12
+rajarajeshwarinagar,kempegowda layout,12
+unspecified,rajarajeshwari nagar,12
+unspecified,hagadooru,12
+yelahanka,jaya chamarajendra nagara,12
+mahadevapura,channasandra,12
+malleshwaram,chandra layout,11
+jayanagar,shakambarinagara,11
+rajarajeshwarinagar,rajagopala nagara,11
+unspecified,ramamurthy nagar,11
+unspecified,thanisandra,11
+unspecified,ullalu,11
+c.v. raman nagar,jeevan bhimanagar,11
+unspecified,kumaraswamy layout,11
+unspecified,hsr layout,11
+gandhinagara,cottonpete,11
+bommanahalli,chikka adugodi,11
+yelahanka,j.p park,11
+c.v. raman nagar,jogpalya,11
+bommanahalli,kormangala west,11
+malleshwaram,hosahalli,11
+mahadevapura,shivanasamudra ward,11
+jayanagar,jayanagar east,11
+mahadevapura,bellanduru,10
+mahadevapura,yamalur,10
+jayanagar,harinagar,10
+malleshwaram,manjunath nagara,10
+bommanahalli,s.g palya,10
+k.r. pura,sangama ward,10
+rajarajeshwarinagar,chikkalasandra,10
+unspecified,horamavu,10
+byatarayanapura,s.k garden,10
+c.v. raman nagar,vannarpet,10
+k.r. pura,vibhootipura,10
+k.r. pura,uday nagar,10
+malleshwaram,kaveripura,10
+unspecified,kottigepalya,10
+malleshwaram,avalahalli,10
+rajarajeshwarinagar,shakthi ganapathi nagara,10
+bommanahalli,n.s palya,10
+rajarajeshwarinagar,sunkadakatte,10
+unspecified,vidyaranyapura,10
+bommanahalli,jakkasandra,10
+c.v. raman nagar,agaram,10
+malleshwaram,rajamahal,10
+unspecified,dodda bidarkallu,9
+k.r. pura,jagadish nagar,9
+gandhinagara,silverjubilee park ward,9
+malleshwaram,deepanjali nagara,9
+bommanahalli,subramanyapura,9
+malleshwaram,hanumanthanagar,9
+byatarayanapura,kuvempunagara,9
+byatarayanapura,kammanahalli,9
+bommanahalli,madiwala,9
+bommanahalli,lakkasandra,9
+byatarayanapura,subbayanapalya,9
+c.v. raman nagar,krishnaiahnapalya,9
+c.v. raman nagar,g.m palya,9
+yelahanka,manjunatha nagar,9
+byatarayanapura,nagavara,9
+malleshwaram,srinagar,9
+byatarayanapura,venkateshpuram,9
+jayanagar,bheereshwara nagar,9
+k.r. pura,k.s. nissar ahmed ward,9
+k.r. pura,anandapura,9
+gandhinagara,seshadripuram,9
+k.r. pura,a narayanapura,9
+rajarajeshwarinagar,nalwadi krishnaraja wadiyar ward,9
+yelahanka,nele maheshwaramma temple ward,8
+yelahanka,bhoopasandra,8
+yelahanka,dinnur,8
+yelahanka,dasarahalli,8
+mahadevapura,ashwath nagar,8
+malleshwaram,marenahalli west,8
+yelahanka,mallasandra,8
+unspecified,gottigere,8
+mahadevapura,garudachar palya,8
+unspecified,arakere,8
+yelahanka,gangenahalli,8
+south,benniganahalli,8
+rajarajeshwarinagar,mahalakshmipuram,8
+malleshwaram,pattegar palya,8
+rajarajeshwarinagar,raja mayura varma ward,8
+gandhinagara,rayapuram,8
+jayanagar,benniganahalli,8
+unspecified,btm layout,7
+malleshwaram,mathikere,7
+gandhinagara,dattatreya ward,7
+east,priyadarshini ward,7
+gandhinagara,binnypete,7
+unspecified,vidyapeetha,7
+unspecified,vasanthapura,7
+bommanahalli,kodi chikkanahalli,7
+unspecified,someshwara,7
+c.v. raman nagar,nagavarapalya,7
+unspecified,varthur,7
+malleshwaram,vidyaranyanagara,7
+unspecified,kavalbyrasandra,7
+unspecified,jakkur,7
+c.v. raman nagar,vinayakanagar,7
+malleshwaram,prakash nagara,7
+gandhinagara,bharathi nagar,7
+rajarajeshwarinagar,jai maruthi nagar,7
+malleshwaram,subramanyanagara,7
+malleshwaram,dr. vishnuvardhan ward,7
+mahadevapura,k.s. nissar ahmed ward,7
+jayanagar,anjanapur,7
+gandhinagara,gopalpura,7
+malleshwaram,bapuji nagara,7
+unspecified,hampi nagar,6
+malleshwaram,da.ra. bendre ward,6
+unspecified,bagalagunte,6
+unspecified,banaswadi,6
+gandhinagara,jjr nagara,6
+gandhinagara,venkat reddy nagara,6
+yelahanka,jalahalli,6
+yelahanka,benniganahalli,6
+bommanahalli,mangammana palya,6
+c.v. raman nagar,kaggadasapura,6
+unspecified,kodigehalli,6
+unspecified,shanthala nagar,6
+yelahanka,brundavana nagara,6
+c.v. raman nagar,austin town,6
+rajarajeshwarinagar,kamalanagara,6
+south,vasanthapura,6
+c.v. raman nagar,shanthi nagar,6
+byatarayanapura,doddabommasandra,6
+unspecified,uttarahalli,6
+unspecified,k.r.puram,6
+rajarajeshwarinagar,nelagadaranahalli,6
+malleshwaram,dayanand nagara,6
+gandhinagara,padarayanapura,6
+jayanagar,yarab nagar,6
+k.r. pura,benniganahalli,6
+mahadevapura,s.m krishna ward,6
+malleshwaram,kuvempu ward,6
+unspecified,bommanahalli,6
+malleshwaram,bandi reddy circle ward,6
+unspecified,herohalli,6
+byatarayanapura,k.g.halli,6
+byatarayanapura,jeevanahalli,6
+unspecified,hemmigepura,6
+malleshwaram,aramane nagara,6
+byatarayanapura,doddanna nagar,6
+rajarajeshwarinagar,nandini layout,6
+unspecified,garudacharpalya,5
+bommanahalli,benniganahalli,5
+gandhinagara,halasuru,5
+unspecified,attiguppe,5
+unspecified,doddanekkundi,5
+unspecified,anjanapur,5
+unspecified,banashankari temple ward,5
+malleshwaram,gayathri nagara,5
+malleshwaram,agrahara dasarahalli,5
+unspecified,chamrajpet,5
+k.r. pura,krishnanagar,5
+malleshwaram,adi chunchanagiri ward,5
+k.r. pura,vijinapura,5
+k.r. pura,k.r pura,5
+yelahanka,yeshwanthpura,5
+unspecified,bapuji nagar,5
+unspecified,hosakerehalli,5
+malleshwaram,moodalapalya,5
+unspecified,jayangar,5
+east,shivanasamudra ward,5
+gandhinagara,kasturbha nagar,5
+gandhinagara,kanakanapalya,5
+unspecified,sanjay nagar,5
+unspecified,sampangiram nagar,5
+byatarayanapura,shakthi nagar,5
+south,dharmaraya swamy temple ward,5
+rajarajeshwarinagar,shankar mutt,5
+rajarajeshwarinagar,srigandhanagar,5
+unspecified,malleshwaram,5
+east,dinnur,5
+rajarajeshwarinagar,nagapura,5
+rajarajeshwarinagar,laggere,5
+unspecified,nagapura,5
+k.r. pura,dooravaninagar,5
+bommanahalli,bellandur,4
+bommanahalli,national games village,4
+unspecified,yelachenahalli,4
+bommanahalli,hosapalya,4
+byatarayanapura,samadhana nagar,4
+east,kaval byrasandra,4
+gandhinagara,benniganahalli,4
+gandhinagara,azad nagar,4
+unspecified,bilekahalli,4
+unspecified,kadugodi,4
+malleshwaram,subedarpalya,4
+unspecified,domlur,4
+jayanagar,banashankari temple ward,4
+k.r. pura,l.b shastri nagar,4
+unspecified,hal airport,4
+unspecified,giri nagar,4
+gandhinagara,old guddadahalli,4
+gandhinagara,devaraj urs ward,4
+malleshwaram,benniganahalli,4
+unspecified,dr.rajkumar ward,4
+rajarajeshwarinagar,devagiri temple ward,4
+c.v. raman nagar,shanthala nagar,4
+south,gali anjaneya temple ward,4
+rajarajeshwarinagar,lakshmi devi nagar,4
+east,halasuru,4
+unspecified,shakambari nagar,4
+unspecified,singasandra,4
+malleshwaram,t.r shamanna nagar,4
+unspecified,mangammanapalya,4
+unspecified,jeevanbhima nagar,4
+west,chickpete,4
+unspecified,vignana nagar,3
+c.v. raman nagar,domlur,3
+rrnagar,konanakunte,3
+yelahanka,shettyhalli,3
+east,kempapura,3
+jayanagar,kamakya layout,3
+c.v. raman nagar,neelasandra,3
+unspecified,hombegowda nagar,3
+unspecified,hoodi,3
+malleshwaram,k.p agrahara,3
+gandhinagara,ipd salappa ward,3
+unspecified,benniganahalli,3
+byatarayanapura,periyar nagar,3
+gandhinagara,cheluvadi palya,3
+mahadevapura,bommanahalli,3
+bbmp ho,kasavanahalli,3
+unspecified,gangenahalli,3
+gandhinagara,okalipuram,3
+gandhinagara,someshwara nagara,3
+jayanagar,abdul kalam nagar,3
+unspecified,aramane nagar,3
+byatarayanapura,govindapura,3
+unspecified,jalahalli,3
+unspecified,marathalli,3
+unspecified,laggere,3
+unspecified,koramangala,3
+unspecified,t-dasarahalli,3
+rajarajeshwarinagar,rajeshwarinagar,3
+unspecified,vijanapura,3
+bommanahalli,harinagar,3
+unspecified,maruthi mandira ward,3
+byatarayanapura,kushal nagar,3
+east,sampigehalli,3
+unspecified,newthippasandra,3
+east,thanisandra,3
+unspecified,shankaramata,3
+unspecified,rajagopala nagar,3
+rajarajeshwarinagar,goraguntepalya,3
+unspecified,adugodi,3
+south,d.v gundappa ward,3
+east,byrasandra,3
+unspecified,nayandanahalli,3
+unspecified,konanakunte,3
+unspecified,kaveripura,3
+gandhinagara,bhuvaneshwari nagar,3
+east,horamavu,3
+south,kathriguppe,3
+east,kodigehalli,3
+unspecified,shettyhalli,3
+unspecified,nandini layout,3
+rrnagar,govindraja nagara,2
+west,dharmaraya swamy temple ward,2
+west,dharmarayaswamy temple ward,2
+yelahanka,singapura,2
+unspecified,yadiyuru,2
+west,basaveshwara nagara,2
+bommanahalli,kothanur,2
+yelahanka,thindlu,2
+rrnagar,hegganahalli,2
+rrnagar,vinayaka layout,2
+rrnagar,vasanthapura,2
+east,jnanabharathi ward,2
+unspecified,subedarapalya,2
+rrnagar,rajagopala nagar,2
+unspecified,visvesvarapuram,2
+rrnagar,kengeri kote ward,2
+rrnagar,kengal hanumanthaiah west,2
+east,nagashettyhalli,2
+unspecified,vishwanathnagenahalli,2
+west,cottonpete,2
+west,deepanjali nagar,2
+unspecified,kammanahalli,2
+unspecified,kacharakanahalli,2
+c.v. raman nagar,ambedkarnagar,2
+west,gangenahalli,2
+unspecified,konena agrahara,2
+west,ipd salappa ward,2
+east,hrbr layout,2
+unspecified,maruthi seva nagar,2
+east,gunjur,2
+south,kadugodi,2
+unspecified,mahalakshmipuram,2
+east,geddalahalli,2
+unspecified,kuvempu nagar,2
+unspecified,katriguppe,2
+unspecified,puttenahalli,2
+unspecified,rajaji nagar,2
+east,harinagar,2
+south,bommanahalli,2
+unspecified,ramaswamy palya,2
+unspecified,sri rammandira,2
+unspecified,shanthi nagar,2
+unspecified,sarakki,2
+east,byatarayanapura,2
+unspecified,peenya industrial area,2
+unspecified,padmanabha nagar,2
+east,varthur,2
+east,uttarahalli,2
+east,r.t nagar,2
+east,peenya,2
+rajarajeshwarinagar,vrishabhavathi nagar,2
+rajarajeshwarinagar,dr. puneeth rajkumar ward,2
+malleshwaram,sane guruvana halli,2
+malleshwaram,sangolli rayanna ward,2
+malleshwaram,shivanagara,2
+malleshwaram,kamakshipalya,2
+east,viswamanava kuvempu ward,2
+unspecified,hongasandra,2
+unspecified,hebbal,2
+unspecified,hosahalli,2
+east,bharath aikya ward,2
+south,pattabhirama nagara,2
+c.v. raman nagar,old baiyappanahalli,2
+east,belathur,2
+south,srinivasa nagara,2
+unspecified,jayamahal,2
+unspecified,jakkasandra,2
+malleshwaram,muneshwara block,2
+unspecified,chikpete,2
+unspecified,byrasandra,2
+unspecified,cottonpet,2
+bommanahalli,sarvabhouma nagar,2
+byatarayanapura,aerocity,2
+unspecified,doddabommasandra,2
+unspecified,deepanjali nagar,2
+unspecified,hbr layout,2
+mahadevapura,bhattarahalli,2
+mahadevapura,ramamurthy nagara,2
+mahadevapura,k chennasandra,2
+unspecified,ganeshmandira ward,2
+unspecified,gayathri nagar,2
+unspecified,gali anjaneya swamy temple ward,2
+bommanahalli,anjanapura,2
+bommanahalli,bheereshwara nagar,1
+bommanahalli,btm layout,1
+yelahanka,nagavara,1
+yelahanka,rajarajeshwari nagar,1
+yelahanka,singasandra,1
+k.r. pura,cottonpete,1
+k.r. pura,hbr layout,1
+bommanahalli,j.p nagar,1
+bommanahalli,j.p.nagar,1
+yelahanka,jayachamarajendra nagar,1
+yelahanka,kammanahalli,1
+yelahanka,kuvempunagara,1
+unspecified,gandhi nagar,1
+unspecified,govindraja nagara,1
+unspecified,gurappanapalya,1
+unspecified,h.m.t,1
+unspecified,c.v.raman nagar,1
+unspecified,chikkalasandra,1
+unspecified,chokkasandra,1
+unspecified,chowdeshwari ward,1
+unspecified,dharmarayaswamy temple ward,1
+unspecified,azad nagar,1
+unspecified,basaveshwara nagar,1
+unspecified,bharathi nagar,1
+unspecified,hegganahalli,1
+unspecified,j.p.nagar,1
+dasarahalli,dodda bidarkallu,1
+dasarahalli,herohalli,1
+dasarahalli,kempapura,1
+dasarahalli,kottigepalya,1
+south,silverjubilee park ward,1
+south,someshwara nagara,1
+south,subramanyapura,1
+south,tilak nagara,1
+unspecified,a.narayanapura,1
+unspecified,agrahara dasarahalli,1
+east,andrahalli,1
+east,basavanapura,1
+east,bellandur,1
+south,kormangala west,1
+south,kushal nagar,1
+south,muneshwara block,1
+south,puttenahalli,1
+south,shakambarinagara,1
+south,shakthiganapathi nagar,1
+c.v. raman nagar,newthippasandra,1
+unspecified,jogupalya,1
+unspecified,kengeri,1
+unspecified,kushal nagar,1
+unspecified,lingarajapuram,1
+unspecified,madiwala,1
+unspecified,manorayanapalya,1
+unspecified,marappana palya,1
+unspecified,marenahalli,1
+east,chickpete,1
+east,dodda nekkundi,1
+east,gandhi nagar,1
+east,ganganagar,1
+south,j.p nagar,1
+south,kadirenahalli,1
+south,kane muneshwara ward,1
+south,konanakunte,1
+dasarahalli,manjunatha nagar,1
+dasarahalli,rajarajeshwari nagar,1
+east,abdul kalam nagar,1
+east,hoysala nagara central,1
+east,jakkasandra,1
+east,jalahalli,1
+east,jaya chamarajendra nagara,1
+south,domlur,1
+south,gandhi nagar,1
+south,govindraja nagara,1
+south,hemmigepura,1
+east,bhoopasandra,1
+unspecified,mathikere,1
+unspecified,nagarabhavi,1
+unspecified,nagavara,1
+unspecified,okalipuram,1
+unspecified,pattabhiram nagar,1
+unspecified,radhakrishna temple,1
+east,kodihalli,1
+south,arakere,1
+south,ashoka nagara,1
+south,attigupe,1
+south,avalahalli,1
+south,beguru,1
+south,bellandur,1
+south,chamrajpet,1
+east,gurappanapalya,1
+east,hennur,1
+east,hombegowda nagara,1
+unspecified,rayapuram,1
+unspecified,sarvagna nagar,1
+unspecified,shivaji nagar,1
+rrnagar,shanthala nagar,1
+rrnagar,subedarapalya,1
+rrnagar,t-dasarahalli,1
+rrnagar,talagattapura,1
+rrnagar,thindlu,1
+rrnagar,uttarahalli,1
+south,adi chunchanagiri ward,1
+east,jeevan bhimanagar,1
+east,jogpalya,1
+east,kalyan nagar,1
+east,kasturi nagar,1
+unspecified,sudduguntepalya,1
+unspecified,sunkenahalli,1
+unspecified,vannarpet,1
+unspecified,vasanth nagar,1
+east,n.a.l layout,1
+east,nada prabhu kempegowda nagara,1
+east,new thippasandra,1
+rrnagar,j.p park,1
+rrnagar,kempegowda layout,1
+rrnagar,malleshwaram,1
+rrnagar,nagadevanahalli,1
+rrnagar,nagarabhavi,1
+rrnagar,padmanabhanagara,1
+rrnagar,rajaji nagar,1
+rrnagar,rajeshwarinagar,1
+unspecified,yelahanka old satellite town,1
+west,attiguppe,1
+west,bangarappa nagara,1
+west,benniganahalli,1
+west,bharathi nagar,1
+c.v. raman nagar,benniganahalli,1
+c.v. raman nagar,jogupalya,1
+west,brundavana nagara,1
+west,byatarayanapura,1
+west,dattatreya ward,1
+west,doddanekkundi,1
+rajarajeshwarinagar,yeshwanthpur,1
+rrnagar,bangarappa nagara,1
+rrnagar,byatarayanapura,1
+rrnagar,chikkalasandra,1
+rrnagar,chokkasandra,1
+rrnagar,deepanjali nagara,1
+rrnagar,dr rajkumar ward,1
+rrnagar,hampi nagar,1
+rrnagar,hosahalli,1
+rrnagar,hosakerehalli,1
+east,krishnaiahnapalya,1
+east,l.b shastri nagar,1
+east,maruthi seva nagara,1
+east,munnenkolalu,1
+rajarajeshwarinagar,rajagopala nagar,1
+east,panathur,1
+east,pulakeshi nagar,1
+east,rajamahal,1
+east,ramamurthy nagar,1
+east,swamy vivekananda ward,1
+east,uday nagar,1
+east,v.v puram,1
+rajarajeshwarinagar,kottigepalya,1
+byatarayanapura,vishwanatha nagenahalli,1
+west,jnanabharathi ward,1
+west,k kamaraj ward,1
+west,k.r market,1
+west,kamalanagara,1
+west,kethamaranahalli,1
+rajarajeshwarinagar,ganeshmandira ward,1
+east,shakthi nagar,1
+east,someshwara nagara,1
+east,subbayanapalya,1
+malleshwaram,vidyapeetha,1
+rajarajeshwarinagar,benniganahalli,1
+east,venkat reddy nagara,1
+east,vishwanatha nagenahalli,1
+east,yelahanka satellite town,1
+byatarayanapura,r.t nagar,1
+byatarayanapura,aruna asif ali ward,1
+byatarayanapura,hebbal,1
+west,nagarbhavi,1
+west,peenya industrial area,1
+west,raja mayura varma ward,1
+bommanahalli,rajarajeshwari nagar,1
+malleshwaram,nalwadi krishnaraja wadiyar ward,1
+malleshwaram,padmanabha nagar,1
+gandhinagara,dharmarayaswamy temple ward,1
+gandhinagara,swatantra palya ward,1
+bommanahalli,shakambari nagar,1
+bommanahalli,shakambarinagara,1
+bommanahalli,vishwapriya nagara,1
+west,sadashiva nagara,1
+west,shivanagara,1
+west,srinagar,1
+west,sunkenahalli,1
+west,thanisandra,1
+west,vasanth nagar,1
+west,yeshwanthpur,1
+yelahanka,amruthahalli,1
+mahadevapura,sangama ward,1
+mahadevapura,t.r shamanna nagar,1
+mahadevapura,vannarpet,1
+gandhinagara,sampangiram nagar,1
+jayanagar,shakambari nagar,1
+mahadevapura,hsr layout,1
+mahadevapura,j.p.nagar,1
+k.r. pura,banaswadi,1
+mahadevapura,c.v.raman nagar,1
+mahadevapura,g.m palya,1
+k.r. pura,jnanabharathi ward,1
+k.r. pura,rajarajeshwari temple ward,1
+k.r. pura,vignana nagar,1
+mahadevapura,a narayanapura,1
+mahadevapura,anjanapur,1
+yelahanka,banashankari temple ward,1
+bommanahalli,jayanagar east,1
+bbmp ho,maruthi mandira ward,1
+bommanahalli,basavanagudi,1
+bbmp ho,jagadish nagar,1
+bbmp ho,hal airport,1
+bommanahalli,adugodi,1
