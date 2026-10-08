@@ -1,33 +1,208 @@
-category,complaint_count
-Electrical,429277
-Solid Waste (Garbage) Related,361295
-Road Maintenance(Engg),175522
-Forest,57769
-veterinary,51953
-Health Dept,42281
-E khata / Khata services,24992
-Road Infrastructure,20174
-Others,13634
-Storm  Water Drain(SWD),8589
-Revenue Department,8435
-Town Planning,6613
-Parks and Play grounds,6105
-Advertisement,5409
-Markets,3980
-Sanitation,3568
-Lakes,3192
-CORONA COVID19,2044
-Water Crisis,1147
-Traffic Engineer Cell (TEC),1006
-Indira Canteen,828
-Optical Fiber Cables (OFC),607
-Plastic,378
-Information Technology,356
-Property Tax services,344
-Estate,334
-Projects Central,331
-Call Center,235
-Welfare Schemes,225
-BBMP Election Branch,137
-Education,128
-Major Roads,2
+category,sub_category,complaint_count,percentage
+Electrical,Street Light Not Working,406107,32.992956316161475
+Solid Waste (Garbage) Related,Garbage dump,138009,11.212131059639772
+Solid Waste (Garbage) Related,Garbage vehicle not arrived,134416,10.92022845258309
+Road Maintenance(Engg),Potholes,49308,4.005881922836322
+Road Maintenance(Engg),Road side drains,34321,2.788307647312107
+Solid Waste (Garbage) Related,Sweeping not done,31893,2.5910520030222037
+Forest,obstructions Branches / Trees.,27855,2.2629966934494554
+Forest,Removal of dead/fallen trees,26660,2.165912469838897
+Road Maintenance(Engg),Debris Removal / Construction Material,24784,2.0135024250745395
+Road Maintenance(Engg),footpath encroachment,20396,1.657012405657695
+Road Infrastructure,Road Infrastructure,20173,1.638895433385599
+veterinary,Stray dog related complaints,16065,1.3051531818440316
+Health Dept,Dengue positive,14470,1.1755721469830773
+Road Maintenance(Engg),Road cutting,13854,1.1255270576574672
+Others,Others,13633,1.1075725694416236
+Solid Waste (Garbage) Related,Garbage dumping in vacant sites,13530,1.0992046405446465
+Solid Waste (Garbage) Related,Dead animal(s),13081,1.0627269699160768
+Road Maintenance(Engg),Footpath,12707,1.0323424513969566
+veterinary,Animal birth control/neutering of stray dogs,11697,0.9502880029897066
+Road Maintenance(Engg),water stagnation,11184,0.9086108425610737
+Electrical,Requirement For New Street Lights,9996,0.8120953131473975
+Solid Waste (Garbage) Related,Burning of Garbage in Open Space,9933,0.80697706537546
+Health Dept,Increase in mosquito density,9560,0.7766737888844657
+E khata / Khata services,Other Khata / ekhata issues,7698,0.6254011325138721
+Electrical,Street Lights Switched On During Day Time,6922,0.5623573186881037
+Solid Waste (Garbage) Related,Complaint against SW collector/ SWM official for violation of SWM Rules,6532,0.5306729277189676
+Health Dept,Air/Noise pollution,5661,0.4599111212212302
+Solid Waste (Garbage) Related,Garbage transfer not as per norms & area not kept clean,5419,0.44025055041474054
+Storm  Water Drain(SWD),Maintenance of SWD,5028,0.4084849174174784
+Health Dept,Spraying,4961,0.40304170153303703
+Revenue Department,"Khata Services (Registration, Transfer, Bifurcation and Amalgamation)",4911,0.39897960012673755
+Road Maintenance(Engg),UnAuthorised Constructions,4809,0.3906929132578865
+Advertisement,Flex and banners,4779,0.38825565241410687
+veterinary,Animal Rescue - Not well - Requires attention,4607,0.37428202357643653
+veterinary,Stray/Rabid dog bite,4516,0.3668889990169715
+E khata / Khata services,Ekhata missing in online,4068,0.3304925704165279
+Solid Waste (Garbage) Related,Public dustbins not cleaned,3947,0.32066228501328303
+Markets,Encroachment,3813,0.3097758532444004
+Town Planning,Construction not done as per approved plan (Building Bye Law Violations),3637,0.29547725629422616
+veterinary,Fatally injured - Needs immediate attention,3532,0.2869468433409972
+Health Dept,Fogging,3523,0.2862156650878632
+veterinary,shifting of the street dogs to other places,3349,0.272079552193941
+Parks and Play grounds,Issues Related to Parks/Medians/Circles/Island.,3306,0.2685861449845234
+Solid Waste (Garbage) Related,Garbage nuisance while transporting,3305,0.2685049029563974
+Forest,Issues related Snakes/Birds/Monkeys,3254,0.26436155952197193
+E khata / Khata services,ekhata approval pending with ARO,3132,0.25445003209060113
+veterinary,Anti Rabies Vaccination of stray dogs,3009,0.24445726263110432
+Electrical,Park Lights Not Working,2479,0.20139898772432957
+Road Maintenance(Engg),water leakage on road,2333,0.189537651617935
+Health Dept,Unhygienic premises in Hotel etc,2231,0.181250964749084
+Storm  Water Drain(SWD),Sewerage water left in SWD,2177,0.17686389523028054
+Electrical,Earthing Issue relate to Electric Poles/Panel Boards,2097,0.17036453298020132
+Sanitation,Urination in Public/Open Defecation,2090,0.16979583878331939
+E khata / Khata services,Technical Issue In Ekhata,2051,0.16662739968640577
+E khata / Khata services,new Khata / Ekhata registration / creation,1950,0.15842195484568078
+veterinary,Stray cattle related complaints,1906,0.1548473056081372
+Town Planning,UnAuthorised Building Constructions,1905,0.15476606358001121
+Road Maintenance(Engg),Overhanging cables,1823,0.14810421727368003
+E khata / Khata services,Ekhata Other corrections,1790,0.14542323034552235
+Electrical,Open Electrical Junction Box,1676,0.13616163913915946
+E khata / Khata services,Ekhata - name correction,1665,0.1352679768297736
+Parks and Play grounds,Gym/Children Play equipment in the parks,1444,0.11731348861392975
+Storm  Water Drain(SWD),Garbage thrown in storm water drain,1383,0.11235772489824436
+Revenue Department,Discrepancy In Khata Certificate and Khata Extract,1230,0.09992769459496788
+Lakes,Lake not maintained properly,1147,0.0931846062605107
+Water Crisis,Water related issue,1147,0.0931846062605107
+Revenue Department,Unable to generate the property tax challan,1125,0.09139728164173891
+Solid Waste (Garbage) Related,Segregation of waste is not done,1070,0.08692897009480945
+E khata / Khata services,Khata / Ekhata mutation / transfer,1055,0.08571033967291959
+CORONA COVID19,Others,1047,0.08506040344791167
+Traffic Engineer Cell (TEC),TEC,1006,0.08172948029474608
+Lakes,Sewage inflow to lake,915,0.07433645573528098
+Town Planning,Noise during Building Construction,915,0.07433645573528098
+Sanitation,Public toilet(s) blockage,862,0.0700306282446035
+veterinary,Mutton/Chicken/fish stall Unhygienic maintenance,778,0.06320629788202033
+Revenue Department,Unable to Generate the receipt after property tax payment.,778,0.06320629788202033
+Parks and Play grounds,Environmental protection,776,0.06304381382576835
+E khata / Khata services,Ekhata Area Correction,651,0.052888560310019574
+Advertisement,Unsafe Hoardings,630,0.05118247771937379
+Optical Fiber Cables (OFC),Without permission digging of road,606,0.049232669044350016
+CORONA COVID19,Government regulations not being followed,577,0.046876650228696304
+Parks and Play grounds,Play Grounds,540,0.04387069518803467
+veterinary,Stray pig related complaints,500,0.040621014062995064
+Health Dept,Delay in issue of Trade licence,496,0.040296045950491105
+Sanitation,Public toilet(s) cleaning,437,0.03550276629105769
+Health Dept,Indira Canteen,412,0.03347171558790794
+Revenue Department,Others (JC),391,0.03176563299726214
+Plastic,Use of banned single use plastic,378,0.03070948663162427
+Lakes,Dumping of garbage into lake,324,0.026322417112820806
+veterinary,Pet dog licence,321,0.026078691028442832
+Indira Canteen,Food Quality,310,0.02518502871905694
+veterinary,Animal Cruelty/Ill-Treated / Abused,301,0.02445385046592303
+Health Dept,Zonal Violation of the Building,280,0.022747767875277238
+E khata / Khata services,E-Khata Non-Technical Issues,277,0.02250404179089927
+Health Dept,Birth & Death Registration,254,0.020635475144001495
+E khata / Khata services,Other (JC),242,0.019660570806489613
+Estate,Encroachment,238,0.019335602693985654
+veterinary,"Dog, cat Poor conditions / Breeding license validation",206,0.01673585779395397
+Information Technology,Others(Technical or Software Issues),185,0.015029775203308175
+Lakes,Lake being encroached,182,0.014786049118930205
+Information Technology,App Related Issues,171,0.013892386809544313
+Lakes,Lake fencing damaged,170,0.013811144781418323
+CORONA COVID19,Overcharging,170,0.013811144781418323
+Lakes,Dying of fishes in lake,166,0.013486176668914364
+E khata / Khata services,Ekhata in previous owner name,165,0.013404934640788374
+Indira Canteen,Food Quantity,163,0.013242450584536393
+Solid Waste (Garbage) Related,Garbage Near Railway Tracks,158,0.012836240443906442
+veterinary,Street dogs attacking-pet Dogs,156,0.01267375638765446
+Town Planning,Delay in issuing building permit,156,0.01267375638765446
+Health Dept,Unhygienic  premises in hospital,154,0.01251127233140248
+Projects Central,Potholes,154,0.01251127233140248
+Health Dept,Unavailability of staff,149,0.012105062190772531
+CORONA COVID19,Some other person affected from COVID,147,0.01194257813452055
+Call Center,others,144,0.01169885205014258
+veterinary,Request for New feeder Points,135,0.010967673797008668
+Sanitation,No water supply in public toilet(s),129,0.010480221628252727
+Indira Canteen,Others,122,0.009911527431370797
+E khata / Khata services,Do not issue ekhata,117,0.009505317290740846
+Property Tax services,Other property tax issues,115,0.009342833234488866
+Lakes,Dumping of construction & Demolition waste in to lake,115,0.009342833234488866
+Indira Canteen,Staff Related,112,0.009099107150110896
+CORONA COVID19,Stockout,102,0.008286686868850994
+veterinary,Aged street dogs please take action,101,0.008205444840725003
+veterinary,Request for ABC,100,0.008124202812599013
+veterinary,Feeder Harassment by Association / Gated Community,91,0.0073930245594651025
+Property Tax services,Property tax owner name not updated,91,0.0073930245594651025
+Call Center,Call center Issues,91,0.0073930245594651025
+BBMP Election Branch,Epic Details Corrections,91,0.0073930245594651025
+Projects Central,Road furnitures,85,0.006905572390709162
+E khata / Khata services,eKhata - name Mismatch,84,0.006824330362583172
+Welfare Schemes,Onti Mane,80,0.006499362250079211
+Health Dept,Non availability of drugs,80,0.006499362250079211
+veterinary,Dog bite pet dog,73,0.00593066805319728
+veterinary,Animal Cruelty/Relocated,73,0.00593066805319728
+veterinary,Feeder Harassment  by Individual / Mob but no association,72,0.00584942602507129
+Lakes,Insufficient lake security personnel,68,0.00552445791256733
+Education,Infrastructure related Issues.,68,0.00552445791256733
+Markets,Illegal Parking,66,0.005361973856315349
+veterinary,Animal Death Need cremartion support,65,0.0052807318281893586
+Lakes,Lake gates are not opened as per the prescribed timing,62,0.005037005743811388
+veterinary,Street dog Adaptation process details,54,0.004387069518803468
+Estate,Violation of rules by property Leasers,51,0.004143343434425497
+Health Dept,Non availability of vaccines,50,0.0040621014062995064
+Sanitation,No electricity in public toilet(s),48,0.0038996173500475267
+E khata / Khata services,eKhata amalgamation,47,0.003818375321921536
+BBMP Election Branch,Electoral Roll Objections,46,0.003737133293795546
+Projects Central,Drainage blockage,45,0.0036558912656695563
+Property Tax services,Unable to generate receipt after property tax payment,45,0.0036558912656695563
+Welfare Schemes,Issues Regarding SC/ST Schemes.,43,0.0034934072094175758
+Property Tax services,Issues in property tax portal,42,0.003412165181291586
+Markets,Violation of rules by Shop rent / Leaser,42,0.003412165181291586
+veterinary,"""Pet licensing / Pet shop licensing  / Breeder licensing """,41,0.0033309231531655956
+veterinary,Animal caught disease post surgery,41,0.0033309231531655956
+Indira Canteen,Cleanliness of Canteen /Food Area,40,0.0032496811250396053
+Education,Academic Issues.,39,0.003168439096913615
+Parks and Play grounds,Inspection not done,38,0.003087197068787625
+Lakes,Lake water misused,38,0.003087197068787625
+Indira Canteen,Cleanliness,36,0.002924713012535645
+Projects Central,Stagnation of water on road/ Water logging,33,0.0026809869281576746
+veterinary,Need NGO's location and details,31,0.002518502871905694
+Estate,Payment/Rent issues,31,0.002518502871905694
+Welfare Schemes,Schemes Related to BCM Program,29,0.002356018815653714
+Welfare Schemes,Senior  Citizen,29,0.002356018815653714
+veterinary,Illegal pet shop / Animal cruelty / license check,27,0.002193534759401734
+Welfare Schemes,Women Welfare Program,27,0.002193534759401734
+Property Tax services,unable to generate property tax challan,25,0.0020310507031497532
+Markets,Trade License,24,0.0019498086750237634
+Property Tax services,Property tax refund / adjustment,24,0.0019498086750237634
+Markets,Garbage In Market Premises,22,0.0017873246187717832
+Indira Canteen,Water quality,20,0.0016248405625198027
+veterinary,Awareness session / Request for a session,19,0.0015435985343938126
+Indira Canteen,Billing related,19,0.0015435985343938126
+veterinary,Animal Surgery gone wrong,18,0.0014623565062678225
+Welfare Schemes,Schemes Related to Physically Abled Person,17,0.0013811144781418325
+veterinary,Request for ARV,15,0.001218630421889852
+veterinary,Illegal meat shop / Animal cruelty / license check,15,0.001218630421889852
+Projects Central,Street light issues,14,0.001137388393763862
+Estate,BBMP  Properties Lease issues,14,0.001137388393763862
+veterinary,Animal died post surgery,12,0.0009749043375118817
+Education,Examination Related Issues,10,0.0008124202812599013
+veterinary,Vaccination gone wrong,9,0.0007311782531339113
+veterinary,Animal Death Need to file FIR,8,0.0006499362250079211
+veterinary,Collect the food available to feed dogs,8,0.0006499362250079211
+Education,Parent-Teachers Meeting,7,0.000568694196881931
+Markets,Rent Payment,7,0.000568694196881931
+Markets,Payment Issues,6,0.00048745216875594084
+Indira Canteen,Cleanliness of Utensils,6,0.00048745216875594084
+Education,Sports and co- Curricular Activities,4,0.00032496811250396054
+Lakes,Unauthorised entry of Public during Nights,4,0.00032496811250396054
+veterinary,Animal died post vaccination,2,0.00016248405625198027
+Property Tax services,Request for property tax exemption,2,0.00016248405625198027
+Lakes,Inspection not done,1,8.124202812599014e-05
+CORONA COVID19,Non availability of vaccines,1,8.124202812599014e-05
+Road Maintenance(Engg),Street Light Not Working,1,8.124202812599014e-05
+Sanitation,Dead animal(s),1,8.124202812599014e-05
+Sanitation,Garbage dumping in vacant sites,1,8.124202812599014e-05
+Road Infrastructure,Illegal Parking,1,8.124202812599014e-05
+Major Roads,Food Quality,1,8.124202812599014e-05
+Parks and Play grounds,Sweeping not done,1,8.124202812599014e-05
+Others,Garbage vehicle not arrived,1,8.124202812599014e-05
+Optical Fiber Cables (OFC),Road cutting,1,8.124202812599014e-05
+Major Roads,Road Infrastructure,1,8.124202812599014e-05
+Road Maintenance(Engg),Garbage vehicle not arrived,1,8.124202812599014e-05
+Road Maintenance(Engg),Overcharging,1,8.124202812599014e-05
+Solid Waste (Garbage) Related,Others,1,8.124202812599014e-05
+Storm  Water Drain(SWD),Street Light Not Working,1,8.124202812599014e-05
+Solid Waste (Garbage) Related,Debris Removal / Construction Material,1,8.124202812599014e-05

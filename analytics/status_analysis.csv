@@ -1,10 +1,10 @@
-grievance_status,complaint_count
-closed,1118036
-registered,56494
-non relevant,26929
-rejected,16803
-resolved,6953
-reopen,4020
-in progress,1076
-long term solution,522
-unspecified,57
+grievance_status,complaint_count,percentage
+closed,1118036,90.83151215786951
+registered,56494,4.589687136949687
+non relevant,26929,2.1877665754047886
+rejected,16803,1.3651097986010123
+resolved,6953,0.5648758215600095
+reopen,4020,0.32659295306648034
+in progress,1076,0.08741642226356539
+long term solution,522,0.04240833868176685
+unspecified,57,0.004630795603181438
