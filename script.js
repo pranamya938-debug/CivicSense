@@ -7,10 +7,12 @@ if (complaintForm && message) {
         event.preventDefault();
 
         message.textContent =
-            "Your complaint has been submitted successfully!";
-
+            "✅ Your complaint has been submitted successfully!";
         message.style.color = "green";
+        message.style.fontWeight = "bold";
 
         complaintForm.reset();
     });
+} else {
+    console.error("Complaint form or message element not found.");
 }
