@@ -1,5 +1,4 @@
-month,complaint_count
-1900-01,47
+year_month,complaint_count
 2020-02,6704
 2020-03,9717
 2020-04,4962
@@ -79,4 +78,3 @@ month,complaint_count
 2026-06,34606
 2026-07,32854
 2026-08,20709
-2048-02,427
